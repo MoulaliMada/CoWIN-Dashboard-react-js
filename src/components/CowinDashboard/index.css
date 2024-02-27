@@ -1,0 +1,29 @@
+/* Write your CSS here */
+.CowinDashboard-bg-container {
+  background-color: #161625;
+  width: 100vw;
+  padding: 100px;
+  padding-top: 20px;
+  min-height: 100vh;
+  font-family: 'Roboto';
+}
+.CowinDashboard-logo-container {
+  display: flex;
+  align-items: center;
+}
+.CowinDashboard-logo-img {
+  width: 70px;
+}
+.CowinDashboard-logo-heading {
+  font-size: 30px;
+  color: #2cc6c6;
+  padding-left: 15px;
+}
+.CowinDashboard-heading {
+  color: #ffffff;
+  font-size: 35px;
+}
+.CowinDashboard-loader-container {
+  padding-top: 100px;
+  text-align: center;
+}
